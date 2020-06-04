@@ -15,4 +15,4 @@ main.o: main.cpp
 .PHONY: clean
 
 clean:
-	del main.o program.exe
+	del main.o program.exez
